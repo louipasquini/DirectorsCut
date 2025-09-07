@@ -150,10 +150,6 @@ A aplicação é empacotada usando Electron Builder com suporte para:
 - **macOS**: DMG
 - **Linux**: AppImage
 
-## 📄 Licença
-
-Este projeto está sob licença [ESPECIFICAR_LICENCA].
-
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Por favor:
@@ -162,10 +158,6 @@ Contribuições são bem-vindas! Por favor:
 3. Commit suas mudanças
 4. Push para a branch
 5. Abra um Pull Request
-
-## 📞 Suporte
-
-Para suporte ou dúvidas, entre em contato através de [EMAIL/CONTATO].
 
 ---
 
